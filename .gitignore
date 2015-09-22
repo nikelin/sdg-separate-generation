@@ -1,0 +1,17 @@
+.idea/
+.settings/
+.classpath
+*.project
+*.class
+pom.properties
+*tmp
+*.versionsBackup
+nbproject/
+interpolated-pom.xml
+*.ipr
+*.iws
+*.iml
+target/classes
+*/maven-archiver/
+target/
+*/src/main/generated/
